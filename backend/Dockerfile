@@ -24,7 +24,7 @@ ADD . /home/backend
 # Making entry point executable
 #RUN chmod +x entrypoint.sh
 # Exposing port
-EXPOSE 8000
+EXPOSE 8080
 # Entry point and CMD
 #ENTRYPOINT ["/home/backend/app/entrypoint.sh"]
 
