@@ -1,0 +1,11 @@
+/app/static/*
+/app/media/*
+/docker/*
+/env/*
+
+.gitignore
+README.md
+server.sh
+tasks.sh
+*.pyc
+*.yml
